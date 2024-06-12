@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on a tech-blog website with astro.js.<br>I'm Currently learning Fast-Api, Python.<br>Ask me anything on React, Next.js, Astro,js, JavaScript, Typescript, Node.js
+<h1>Hi 👋, </h1>
+ <h4>I'm Bibhu Prasad </h4>
+ A passionate full stack developer from Odisha, India 🇮🇳 <br>
+I'm currently working on a tech-blog website with astro.js & Node.js.<br>I'm Currently learning Fast-Api, Python.<br>Ask me anything on React, Next.js, Astro,js, JavaScript, Typescript, Node.js
 
 
 ## 🌐 Socials:
