@@ -1,7 +1,11 @@
 # 💫 About Me:
 <h1>Hi 👋, I'm Bibhu Prasad </h1>
- A passionate full stack developer from Odisha, India 🇮🇳 <br>
-I'm currently working on a tech-blog website with astro.js & Node.js.<br>I'm Currently learning Fast-Api, Python.<br>Ask me anything on React, Next.js, Astro,js, JavaScript, Typescript, Node.js
+
+ - A passionate full stack developer from Odisha, India 🇮🇳 
+ - I'm currently working on a tech-blog website with astro.js & Node.js.
+ - I'm Currently learning Fast-Api, Python.
+ - Ask me anything on React, Next.js, Astro,js, JavaScript, Typescript, Node.js
+ - Check out my portfolio website [here](https://bibhu-prasad-portfolio-v1.vercel.app).
 
 
 ## 🌐 Socials:
