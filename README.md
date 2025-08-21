@@ -1,10 +1,8 @@
 ![Header](./github-header-image.png)
 # 💫 About Me:
  - A passionate full stack developer from Odisha, India 🇮🇳 
- - I'm currently working on a lot of things (primarly with Astro.js).
+ - I'm currently building on a lot of things (primarly with Astro.js).
  - Ask me anything on React, Next.js, Astro.js, JavaScript, Typescript, Node.js.
- - Check out my portfolio website [here](https://bibhu-prasad.netlify.app/).
- - Check out my blog website [D-Lazy Coder](https://dlazy-coder.netlify.app).
 
 
 ## 🌐 Connect With Me:
